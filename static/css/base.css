@@ -96,7 +96,9 @@ a.category-badge > span.badge:hover {
     right: 10px;
 }
 
-.btt-link {
+.btt-link,
+.update-link,
+.remove-item {
     cursor: pointer;
 }
 
@@ -133,3 +135,4 @@ a.category-badge > span.badge:hover {
     body {
         height: calc(100vh - 116px);
     }
+}
