@@ -1,0 +1,1 @@
+web: gunicorn boutiqu-ado.wsgi:application
