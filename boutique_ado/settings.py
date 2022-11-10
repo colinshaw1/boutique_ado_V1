@@ -28,7 +28,7 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutiqu-ado.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['csboutique-ado.herokuapp.com', 'localhost']
 
 CSRF_TRUSTED_ORIGINS = ['https://8000-colinshaw1-boutiqueadov-5esnogodau1.ws-eu67.gitpod.io/']
 # Application definition
